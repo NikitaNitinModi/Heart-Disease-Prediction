@@ -1,1 +1,1 @@
-
+Creating a model to predict whether a person has a heart disease or not . Through this prediction model, a person could predict the chances of developing a heart attack at a very early stage. We are trying to compare the various factors that could lead to heart related problems. This includes lifestyle of a person, cholesterol rates and exercise routines. 
